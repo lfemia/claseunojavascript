@@ -20,7 +20,7 @@ let nombre = "";
 let listado = "";
 let contar = 0;
 
-alert('Introduzca los nombres de los participantes. Cuando desee salir del programa escriba "ESC" en la caja de texto')
+alert('Introduzca los nombres de los participantes. Cuando desee salir del programa escriba "ESC" en la caja de texto, y le aparaceran los resultados en la consola')
  nombre = prompt("Introduzca un nombre");
 
 while(nombre == null || nombre == "") {
