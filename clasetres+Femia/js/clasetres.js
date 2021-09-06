@@ -53,7 +53,7 @@ while(numeroTres == null || numeroTres == "" || isNaN(numeroTres) || numeroTres 
 }
 
 while (contarTres < numeroTres) {
-    console.log((contarTres + 1) + "- Hola");
+    console.log((contarTres + 1) + "- Hola, estoy tratando de aprender Javascript");
     contarTres += 1;
 }
 
@@ -62,7 +62,7 @@ for (let i = 0; i < numero; i++) {
  }
 
 do {
-    console.log((contarTres + 1) + '- ' + "Hola");
+    console.log((contarTres + 1) + '- ' + "Hola, estoy tratando de aprender Javascript");
     contarTres = contarTres + 1;
 }
 
