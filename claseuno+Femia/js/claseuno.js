@@ -1,3 +1,4 @@
+/*
 //Ejercicio 1
 let nombreUsuario;
 const lugarweb = 'mi primer desafio en Javascript';
@@ -23,3 +24,4 @@ alert('¿De dónde sos?');
 
 alert('Soy de ' + texto2 + ', ciudad ubicada en ' + texto1);
 console.log('Soy de ' + texto2 + ', ciudad ubicada en ' + texto1);
+*/
