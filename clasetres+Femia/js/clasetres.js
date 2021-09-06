@@ -57,7 +57,7 @@ while (contarTres < numeroTres) {
     contarTres += 1;
 }
 
-for (let i = 0; i < numero; i++) {
+for (let i = 0; i < numeroTres; i++) {
     console.log((i + 1) + '- ' + "Hola");
  }
 
