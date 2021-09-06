@@ -61,9 +61,3 @@ for (let i = 0; i < numeroTres; i++) {
     console.log((i + 1) + '- ' + "Hola");
  }
 
-do {
-    console.log((contarTres + 1) + '- ' + "Hola, estoy tratando de aprender Javascript");
-    contarTres = contarTres + 1;
-}
-
- while(contarTres < numeroTres);
